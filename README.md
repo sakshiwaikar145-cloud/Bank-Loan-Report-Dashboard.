@@ -6,4 +6,4 @@ Developed an interactive Bank Loan Report dashboard using Power BI and SQL to an
 
 ![Dashboard 1](PASTE-IMAGE-LINK-1)
 ![Dashboard 2](PASTE-IMAGE-https://github.com/sakshiwaikar145-cloud/Bank-Loan-Report-Dashboard./blob/main/Screenshot%202026-04-12%20141414.png?raw=true)
-![Dashboard 3](PASTE-IMAGE-LINK-3)
+![Dashboard 3](PASTE-IMAGE-https://github.com/sakshiwaikar145-cloud/Bank-Loan-Report-Dashboard./blob/main/Screenshot%202026-04-12%20141446.png?raw=true)
