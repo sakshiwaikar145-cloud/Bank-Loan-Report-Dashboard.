@@ -4,6 +4,6 @@ Developed an interactive Bank Loan Report dashboard using Power BI and SQL to an
 
 ## 📊 Dashboard Preview
 
-![Dashboard 1](PASTE-LINK-1)
-![Dashboard 2](PASTE-LINK-2)
-![Dashboard 3](PASTE-LINK-3)
+![Dashboard 1](PASTE-IMAGE-LINK-1)
+![Dashboard 2](PASTE-IMAGE-LINK-2)
+![Dashboard 3](PASTE-IMAGE-LINK-3)
